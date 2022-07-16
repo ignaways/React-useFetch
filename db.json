@@ -1,0 +1,16 @@
+{
+  "pirates":[
+    {"name":"Davy Jones"},
+    {"name":"Jack Sparrow"},
+    {"name":"Barbarossa Brothers"},
+    {"name":"Thomas Tew"},
+    {"name":"Samuel Bellamy"},
+    {"name":"Francois l’Olonnais"},
+    {"name":"Benjamin Hornigold"},
+    {"name":"Edward Lowe"},
+    {"name":"William Kidd"},
+    {"name":"Henry Morgan"},
+    {"name":"Francis Drake"},
+    {"name":"Edward Teach"}
+  ]
+}

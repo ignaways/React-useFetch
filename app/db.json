@@ -1,0 +1,64 @@
+{
+  "pirates": [
+    {
+      "id": 1,
+      "name": "Davy Jones",
+      "age": 42
+    },
+    {
+      "id": 2,
+      "name": "Jack Sparrow",
+      "age": 35
+    },
+    {
+      "id": 3,
+      "name": "Barbarossa Brothers",
+      "age": 40
+    },
+    {
+      "id": 4,
+      "name": "Thomas Tew",
+      "age": 45
+    },
+    {
+      "id": 5,
+      "name": "Samuel Bellamy",
+      "age": 38
+    },
+    {
+      "id": 6,
+      "name": "Francois l’Olonnais",
+      "age": 45
+    },
+    {
+      "id": 7,
+      "name": "Benjamin Hornigold",
+      "age": 45
+    },
+    {
+      "id": 8,
+      "name": "Edward Lowe",
+      "age": 45
+    },
+    {
+      "id": 9,
+      "name": "William Kidd",
+      "age": 28
+    },
+    {
+      "id": 10,
+      "name": "Henry Morgan",
+      "age": 55
+    },
+    {
+      "id": 11,
+      "name": "Francis Drake",
+      "age": 60
+    },
+    {
+      "id": 12,
+      "name": "Edward Teach",
+      "age": 67
+    }
+  ]
+}

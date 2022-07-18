@@ -1,0 +1,8 @@
+.pirates__text {
+  font-family: roboto, cursive;
+  font-size: 1em;
+  cursor: pointer;
+}
+.pirates__text:hover {
+  color: brown;
+}

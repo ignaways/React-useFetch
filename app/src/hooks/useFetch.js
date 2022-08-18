@@ -29,7 +29,6 @@ const useFetch = (url) => {
     }
   }, [url]);
 
-
   useEffect(() => {
     fetchData();
   }, [url, fetchData]);

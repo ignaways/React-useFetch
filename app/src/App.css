@@ -1,8 +1,19 @@
-.pirates__text {
+.content__text {
   font-family: roboto, cursive;
   font-size: 1em;
   cursor: pointer;
 }
-.pirates__text:hover {
+.content__text:hover {
   color: brown;
+}
+
+.container__main {
+  margin: 3em auto 0;
+  width: 30%;
+}
+
+@media only screen and (min-width: 750px) {
+  .container__main {
+    width:25%;
+  }
 }
